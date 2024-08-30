@@ -13,11 +13,10 @@ This repository contains a Jupyter Notebook for creating a Retrieval-Augmented G
 To run the notebook, you'll need the following Python packages:
 
 - `arxiv==2.1.3`
-- `feedparser==6.0.11`
-- `requests==2.32.3`
-- `sgmllib3k==1.0.0`
+- `langchain_community`
+- `langchain_tools`
 - `langchain`
-- `your-other-packages`
+- `other-packages`
 
 You can install the necessary packages using pip:
 
